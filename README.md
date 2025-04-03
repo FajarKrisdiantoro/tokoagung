@@ -25,7 +25,7 @@ Sangat untuk menjalankan atau mensetup project ini.
 4. Jalankan perintah `php artisan storage:link`
 5. Jalankan perintah `php artisan serve` untuk menjalankan server
 6. Buka browser dan kunjungi link http://127.0.0.1:8000
-7. Login dengan email (admin@gmail.com) dan password (password)
+7. Login dengan email 
 8. Jalankan perintah `php artisan queue:work` untuk menjalankan queue job yang ada di dalam project ini 
     untuk memproses notifikasi ekpor pemasukan dan pengeluaran
 
